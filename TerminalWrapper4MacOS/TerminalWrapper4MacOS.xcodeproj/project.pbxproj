@@ -10,7 +10,6 @@
 		3024316427BBE5EC00D9C189 /* Ecul.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3024316327BBE5EC00D9C189 /* Ecul.swift */; };
 		3025FD7827BBCDCA005F5EBA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3025FD7727BBCDCA005F5EBA /* main.swift */; };
 		3025FD7F27BBCFBA005F5EBA /* SLR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3025FD7E27BBCFBA005F5EBA /* SLR.swift */; };
-		3025FD8127BBCFBD005F5EBA /* BlockReaction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3025FD8027BBCFBD005F5EBA /* BlockReaction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,7 +29,6 @@
 		3025FD7427BBCDCA005F5EBA /* TerminalWrapper4MacOS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TerminalWrapper4MacOS; sourceTree = BUILT_PRODUCTS_DIR; };
 		3025FD7727BBCDCA005F5EBA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3025FD7E27BBCFBA005F5EBA /* SLR.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SLR.swift; sourceTree = "<group>"; };
-		3025FD8027BBCFBD005F5EBA /* BlockReaction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlockReaction.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +64,6 @@
 				3025FD7727BBCDCA005F5EBA /* main.swift */,
 				3024316327BBE5EC00D9C189 /* Ecul.swift */,
 				3025FD7E27BBCFBA005F5EBA /* SLR.swift */,
-				3025FD8027BBCFBD005F5EBA /* BlockReaction.swift */,
 			);
 			path = TerminalWrapper4MacOS;
 			sourceTree = "<group>";
@@ -129,7 +126,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3025FD8127BBCFBD005F5EBA /* BlockReaction.swift in Sources */,
 				3024316427BBE5EC00D9C189 /* Ecul.swift in Sources */,
 				3025FD7F27BBCFBA005F5EBA /* SLR.swift in Sources */,
 				3025FD7827BBCDCA005F5EBA /* main.swift in Sources */,

@@ -16,7 +16,7 @@ class Ecul {
         // make crypt entity and salt
         let slr = SLR(amr: "213vg")
         // decrypt "-c"
-        let str = slr.under(key: [31, 82])
+        let str = slr.under(clue: [31, 82])
         // - with flag - Use cscore processing metrics file
         // Specifies the command arguments to be used to run the executable
         stint.arguments = [str, word]
